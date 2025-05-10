@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I'm currently a computer science student at co school of mines.
+
+![Brady's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradyancell&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradyancell&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bradyancell&theme=dark)](https://git.io/streak-stats)
+
