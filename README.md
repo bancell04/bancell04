@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 🔭 I'm currently a computer science student at co school of mines.
 
-![Brady's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradyancell&show_icons=true&theme=radical)
+![Brady's GitHub stats](https://github-readme-stats.vercel.app/api?username=bancell04&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradyancell&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bancell04&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bradyancell&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bancell04&theme=dark)](https://git.io/streak-stats)
 
